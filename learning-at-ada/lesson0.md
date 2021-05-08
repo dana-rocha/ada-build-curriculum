@@ -79,5 +79,5 @@ ReactJS is a JavaScript framework for building user interfaces. React lets front
 
 
 Additional Sources:
-https://www.freecodecamp.org/news/compiled-versus-interpreted-languages/
-https://realpython.com/lessons/dynamic-vs-static/
+* https://www.freecodecamp.org/news/compiled-versus-interpreted-languages/
+* https://realpython.com/lessons/dynamic-vs-static/
