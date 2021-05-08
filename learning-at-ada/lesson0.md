@@ -23,7 +23,7 @@ Compiled languages are converted directly into machine code that the processor c
 ### Interpreted Languages
 Interpreted languages can be translated or executed directly. The code does not get directly converted into binary. The program that runs the code is the one that communicates directly with the computer. Interpreters run through a program line by line and execute each command. These interpreted languages include Python, Ruby, PHP, JavaScript.
 
-![compiled-versus-interpreted](images/compiled-interpreted.png)
+![compiled-versus-interpreted](./images/compiled-interpreted.png)
 ### Pros & Cons
 
 Advantages of Compiled Languages: 
@@ -75,7 +75,6 @@ Flask is a Python micro-framework for creating web applications. Flask has a sim
 Flask is used at Ada - for teaching server-side web development. 
 ### ReactJS
 ReactJS is a JavaScript framework for building user interfaces. React lets front-end developers organize their application and provide quick and powerful single-page-applications (SPAs). 
-
 
 
 
