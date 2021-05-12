@@ -15,7 +15,7 @@ Use the "command" key and / key at the same time to comment a whole line. If it'
 ### Execute code in block
 To run or re-run a code block , press command enter. 
 ## Python REPL
-Python provides an interactive computer program that allows the user to enter Python code and get results of that code immediately. This feature is known as REPL (read, evaluate, print loop). This kind of program is great for trying out new commands, practicing syntax, and evaluating solutions to small problems. This is one of two primary ways to use Python to interact with a computer. The other is to put Python code into a file and tehn ask the comptuer to read and execute the code in the file. 
+Python provides an interactive computer program that allows the user to enter Python code and get results of that code immediately. This feature is known as REPL (read, evaluate, print loop). This kind of program is great for trying out new commands, practicing syntax, and evaluating solutions to small problems. This is one of two primary ways to use Python to interact with a computer. The other is to put Python code into a file and then ask the comptuer to read and execute the code in the file. 
 
 ## Reflection
 With the two code block examples provided, the first code block has two print statements that print the two sentences out individually but the second code block prints both sentences out in one line. A newline character is specified in between the sentences. This example shows that there are many ways to use print statements. 
