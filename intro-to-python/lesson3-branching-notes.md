@@ -15,6 +15,3 @@ Conditional statements allow our programs to take different paths based on diffe
 Indentation is very important for conditional statements. They must be properly indented in order to execute. 
 
 Each indented section of code is called a block. Each block describes the behavior the code performs for each different condition. 
-
-
-
