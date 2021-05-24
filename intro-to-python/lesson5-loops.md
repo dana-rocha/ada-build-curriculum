@@ -30,3 +30,16 @@ So, range(5) will give us numbers 0, 1, 2, 3, 4.
 
 ### for (string)
 A for loop can also be used to iterate over the characters in a string or the elements in a list. This is often called a for-each loop in other programming languages. 
+
+### while
+The while loop is useful when we want to continue doing an action while a certain condition is True, but we may not know how many times we'll need to complete that action. 
+
+This is an example of a sentinel-controlled loop. As soon as the condition stops being true, the loop will terminate. 
+
+## Vocabulary
+* Loop = a block of code designed to repeat
+* Iteration = the process of repeating steps, also known as looping
+* Iteration variable = a variable create by the loop to either track the number of times the loop has executed or the current element of a container
+* Counter-Controlled loop = a loop that iterates a specific number of times
+* Sentinel-Controlled loop = a loop that's controlled by the truthiness of a variable or conditional expression
+
