@@ -23,3 +23,8 @@ Examples:
 * list[i:j] --> gets a list of elements from index i to j-1
 * list[i:j:k] --> gets a list of elements from index i to j-1, stepping by the interval k
 
+### Data Assignment
+We can assign and reassign values in lists. We can use list indexing to see what object is regerenced at a particular location. We can also update a particular location to refer to a different object also using list indexing. 
+
+## Built-in Methods
+Lists have many bult-in functions and methods including the len function and method append.
