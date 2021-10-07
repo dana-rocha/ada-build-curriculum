@@ -28,3 +28,16 @@ before they are executed.
 Interpreted languages can be translated or directly
 executed. The code does not get directly converted to binary, the program that
 runs the code is the one that communicates direectly with the computer. 
+
+Compiled and interpreted languages can be further divided into dynamically typed and statically typed languages.
+
+Statically typed languages do type checking (verifying/enforcing constraints of types) at compile-time instead of run-time.
+
+Dynamicaly typed languages do type checking at run-time instead of compile-time. 
+
+
+## Languages
+
+### Python
+
+Python = high-level, dynamically typed language. Created in 1991.
