@@ -40,4 +40,6 @@ Dynamicaly typed languages do type checking at run-time instead of compile-time.
 
 ### Python
 
-Python = high-level, dynamically typed language. Created in 1991.
+Python = high-level, dynamically typed language. Created in 1991 by Guido van Rossum. 
+
+Python can be run on a variety of platforms (Mac, Windows, Linux, etc) and is straightforward in terms of syntax. It's syntax is similar to that of the English language. It was designed to be powerful, intuitive, and open source.
