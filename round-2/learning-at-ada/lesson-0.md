@@ -43,3 +43,18 @@ Dynamicaly typed languages do type checking at run-time instead of compile-time.
 Python = high-level, dynamically typed language. Created in 1991 by Guido van Rossum. 
 
 Python can be run on a variety of platforms (Mac, Windows, Linux, etc) and is straightforward in terms of syntax. It's syntax is similar to that of the English language. It was designed to be powerful, intuitive, and open source.
+
+Python is widely used for: 
+* Server-side Web Development
+* Mathematical Operations
+* Data Science
+* Data Visualizations
+* Artificial Intelligence
+
+Ada teaches introductory Object-Oriented programming in Python and server-side web development. 
+
+### HTML & CSS
+
+HTML or Hyper-Text Markup Language is a markup language. CSS or Cascading Style Sheets is a style sheet language. HTML + CSS work together for structuring and styling the content that make up a web page. 
+
+HTML can be considered as the "skeleton" of a web page. HTML provides the set up and structure of the organization of each web page. CSS is the "clothes" of the skeleton. CSS specifies how each piece of the web page looks including colors, sizes, styles, and relationship to other elements in the web page. 
