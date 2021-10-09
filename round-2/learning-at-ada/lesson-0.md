@@ -58,3 +58,19 @@ Ada teaches introductory Object-Oriented programming in Python and server-side w
 HTML or Hyper-Text Markup Language is a markup language. CSS or Cascading Style Sheets is a style sheet language. HTML + CSS work together for structuring and styling the content that make up a web page. 
 
 HTML can be considered as the "skeleton" of a web page. HTML provides the set up and structure of the organization of each web page. CSS is the "clothes" of the skeleton. CSS specifies how each piece of the web page looks including colors, sizes, styles, and relationship to other elements in the web page. 
+
+### JavaScript
+
+JavaScript is another high-level, dynamically typed language. Alongside HTML and CSS, JavaScript is one of the most important languages in web programming. JS is used to provide a more dynamic and responsive experience for the end user. 
+
+### Frameworks
+
+Frameworks make it possible to build and deploy applications. Frameworks include programs, compilers, code libraries, and application programming interfaces (APIs). 
+
+### Flask
+
+Flask is a Python micro-framework for creating web applications. Flask has a simple core that is designed to be extensible to build powerful web applications.
+
+### ReactJS
+
+ReactJS is a JavaScript framework for building user interfaces. React allows front-end developers to organize their applications and build single-page applications (SPAs). 
