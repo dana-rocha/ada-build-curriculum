@@ -15,6 +15,16 @@ Text cells in Colab are written in a markup language called 'markdown'.
 
 ## Hello, World!
 
-A 'Hello, World' program is the first program that people often write when exploring a new programming language. 
+A 'Hello, World' program is the first program that people often write when exploring a new programming language. It's a simple program that is often used to illustrate the basic syntax of a programming language. The tradition of using the phrase 'Hello, World!' as a test message can be traced back to 1978. 
+
+## Keyboard Shortcuts
+
+### Uncomment, Execute, Re-comment
+Professional developers minimize their use of the mouse (or trackpad) as much as possible. Keyboard navigation is much more predictable and precise. 
+
+* Comment + Uncomment - Command Slash (Ctrl /)
+* Run Code Block - Command Enter
 
 
+## Python REPL
+Python provides an interactive computer program that allows the user to enter Python code and immediately get results of that code. This feature is known as REPL (Read, Evaluate, Print Loop). This program is great for trying out new commands, practicing syntax, and evaluating solutions to small problems. 
