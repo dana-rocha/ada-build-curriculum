@@ -8,3 +8,4 @@ Sources:
 * Ada Developers Academy
 * freeCodeCamp
 * Geeks for Geeks
+* W3 Schools
