@@ -35,3 +35,14 @@ Use the function `type` to determine the object's data type.
 Example:
 * 1 , 2, 3 are instances of the class `int` but instead: `<class 'int'>`
 * `hello`, `"good bye"`, `"see ya"` are instances of the class `str`, and the operations we can do include capitalization and concatenation
+
+## Assignment
+Variables have a name and a value. We assign a value to a variable name using an assignment statement. 
+
+In programming, we use this to store values because often we want to refer to values later on or to do a calculation. 
+
+Examples assignment statements: `x = 5` or `dog_name = "Raquel"`. 
+
+It can be helpful to read assignment statements right to left like "assign the value 5 to x" or "assign 'Raquel' to dog_name". 
+
+Avoid saying "x equals 5" because that means something different in Python. 
