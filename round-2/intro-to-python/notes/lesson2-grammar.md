@@ -95,3 +95,9 @@ Methods are functions that can be called on instances of a class. This is a spec
 
 String interpolation is the process of substituting values of variables into placeholders in a string.
 
+### Indexing/Slicing
+
+Indexing refers to retrieving a single value from a group, in this case a string of characters, by using it's position in that group. Also, it can refer to the way in which we label those positions. 
+
+* In Python, indexing starts at 0. So, the first character in the string is at index 0.
+* Python also uses negative indexing.
