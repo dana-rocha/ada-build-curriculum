@@ -30,7 +30,7 @@ Use the function `type` to determine the object's data type.
 
 * Classes are data along with the operations we can do to that data. 
 * Objects are instances of a class
-* Almost all data in Pyuthon is saved as an object
+* Almost all data in Python is saved as an object
 
 Example:
 * 1 , 2, 3 are instances of the class `int` but instead: `<class 'int'>`
@@ -46,3 +46,52 @@ Examples assignment statements: `x = 5` or `dog_name = "Raquel"`.
 It can be helpful to read assignment statements right to left like "assign the value 5 to x" or "assign 'Raquel' to dog_name". 
 
 Avoid saying "x equals 5" because that means something different in Python. 
+
+## Mathematical Operations
+
+|  Operation   |  Symbol   |   Example  | 
+| --- | --- | --- |  
+| Addition | `+` | `2 + 3` |
+| Subtraction | `-` | `4 - 5` |  
+| Multiplication | `*` | `7 * 8` |  
+| Division | `/` | `1 / 2` |  
+| Truncation Division | `//` | `1 // 2` |  
+| Remainder (Modulus) | `%` | `15 % 5` |  
+
+### Division
+
+Python has two types of division. The first is "regular" division (`/`) where `1/2 = 0.5`. The other is "truncating" division (`//`) where `1//2 = 0`.
+
+In some languages, "integer division" is always truncating. However, in Python 3, `/` always results in a `Float` and `//` always results in an integer. 
+
+### Modulus
+
+Modulus (or "mod) returns the REMAINDER of dividing one number by another number. For example, `15 % 10` will return `5`.
+
+### Precedence
+
+Order of operations! PEMDAS
+
+## Compound Assignment Statements
+
+It is possible to perform an operation and assign a value in the same step.
+
+* Add and assign `+=`
+* Subtract and assign `-=`
+* Divide and assign `/=` or `//=`
+* Multiply and assign `*=`
+
+Example statements:
+* `x += 3` assigns the value of `x + 3` to the variable `x`
+* `x += y + 3` assigns the value of `x = (y + 3)` to the variable `x`
+
+## Strings
+
+### String Interpolation and Methods
+
+Strings in Python are objects that hold a sequence of characters. They're created by surrounding the sequence of characters with double or single quotes.
+
+Methods are functions that can be called on instances of a class. This is a specific name for a function and are called using parentheses.
+
+String interpolation is the process of substituting values of variables into placeholders in a string.
+
