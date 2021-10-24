@@ -46,3 +46,12 @@ Notes:
     * None
     * False
 * A non-boolean value that evaluates to True is also called "truthy"
+
+## Conditionals
+
+Conditional statements are used to control the flow of a program. These statements include: if, elif, and else.
+
+It is important to properly indent conditional statements. In Python, indentation is REQUIRED for the program to execute. Each indented section of code is called a block.
+
+A colon `:` must be used after the boolean expression and `else`.
+
