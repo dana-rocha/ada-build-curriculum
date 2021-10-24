@@ -12,24 +12,24 @@ Ada Build - Intro to Python: Lesson 3
 Relational operators allow us to compare two or three values. The objects don't need to be the same type.
 
 The operators:
-* equals == 
-* does not equal != 
-* less than <
-* greater than >
-* less than or equal to <=
-* greater than or equal to >=
+* equals `==` 
+* does not equal `!=` 
+* less than `<`
+* greater than `>`
+* less than or equal to `<=`
+* greater than or equal to `>=`
 
 Notes:
 * In Python, we can use relational operators on all numbers and strings.
 * Equals and does not equal can also be used on lists and dictionaries.
-* The opposite of > (greater than) is <= (less than or equal to)
-* The opposite of < (less than) is >= (greater than or equal to)
-*  = is the assignment operator. This is VERY different from == which is the equality operator
-*  Relational operators can be chained together like 0 < x <= 100 or 10 > x > 1.
+* The opposite of `>` (greater than) is `<=` (less than or equal to)
+* The opposite of `<` (less than) is `>=` (greater than or equal to)
+* `=` is the assignment operator. This is VERY different from `==` which is the equality operator
+* Relational operators can be chained together like `0 < x <= 100` or `10 > x > 1`.
 
 ## Boolean Values
-* The two possible values of the boolean data type (bool) are True and False
-* A non-boolean value that evaluates to False is called "falsey" or "falsy"
+* The two possible values of the boolean data type (bool) are `True` and `False`
+* A non-boolean value that evaluates to `False` is called "falsey" or "falsy"
   * Sequences and Collections:
     * Empty lists [ ]
     * Empty tuples ( )
@@ -45,13 +45,16 @@ Notes:
   * Constants
     * None
     * False
-* A non-boolean value that evaluates to True is also called "truthy"
+* A non-boolean value that evaluates to `True` is also called "truthy"
 
 ## Conditionals
 
-Conditional statements are used to control the flow of a program. These statements include: if, elif, and else.
+Conditional statements are used to control the flow of a program. These statements include: `if`, `elif`, and `else`.
 
 It is important to properly indent conditional statements. In Python, indentation is REQUIRED for the program to execute. Each indented section of code is called a block.
 
 A colon `:` must be used after the boolean expression and `else`.
 
+## Logical Operators
+
+Logical operators allow us to combine or modify boolean expressions.
