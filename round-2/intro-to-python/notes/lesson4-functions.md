@@ -42,5 +42,31 @@ Functions allow us to assign a name and structure to sections of code. We can cr
 
 ### Signatures and Blocks
 
-A function signature has two parts: the name of a function and the parameters it's expecting
+A function signature has two parts: the name of a function and the parameters it's expecting.
+
+Parentheses (after the function name) are required to call a function and invoke it. A function name without the parentheses only referse to the function. 
+
+### Function Arguments (and parameters)
+
+Most folx use argument and parameter interchangeably which is fine.
+
+In most programming languages (including Python), parameters are variables used to refer to pieces of data provided as input to a function.
+
+Arguments are those pieces of data that are passed to the function when it gets called. 
+
+The parameters are defined in the function signature and the arguments are teh specific values given to the function when it's invoked. 
+
+### docstrings
+
+Lines of code below the function definition. It provides information about what a function does - particularly its inputs and output. 
+
+Access the docstring by using the `__doc__` method. For example, `function_name.__doc__`. Helpful when trying to figure out how to use an unfamiliar funciton
+
+### None
+
+A function does not need to `return` a value! 
+
+If a function doesn't return a value, the return value will be set to `None`.
+
+
 
