@@ -40,3 +40,13 @@ Each location in a list acts like its own variable. We can use list indexing to 
 
 List is a built-in class in Python and it has many built-in functions and methods such as `len` and `append`
 
+## Looping over a List
+
+### `for` loops and `range`
+
+The `len` and `range` functions can be utilized with a `for` loop to retrieve the value of each element in a list. 
+
+### `for` directly on a list
+
+Python also lets us use a `for` loop to retrieve each item directly from lists and other collections. This is commonly known as a `for-each` loop in other programming languages.
+
