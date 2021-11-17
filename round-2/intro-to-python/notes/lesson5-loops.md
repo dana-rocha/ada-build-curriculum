@@ -11,7 +11,7 @@ Iteration also means looping.
 
 There are 2 categories of loops: counter-controlled and sentinel-controlled loops
 
-1. Counter-controlled loops are used when the numebr of loops can be determined before loop execution
+1. Counter-controlled loops are used when the number of loops can be determined before loop execution
 2. Sentinel-controlled loops are used when the number of loops cannot be determined before loop execution
 
 ## `for` loop
